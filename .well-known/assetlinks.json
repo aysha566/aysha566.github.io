@@ -1,8 +1,10 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.aysha566.twa",
-        "sha256_cert_fingerprints": ["78:C5:64:5E:44:0C:4C:2A:F4:75:DB:BF:C5:92:29:B1:DA:C8:46:8A:43:5F:56:3F:EA:D7:E3:3E:1C:1A:3F:44"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.aysha566.twa",
+    "sha256_cert_fingerprints": [
+      "84:80:1A:3F:99:1A:84:44:AE:D2:97:35:63:12:AB:F9:8D:18:F9:A3:67:D3:83:3D:44:3B:CB:D3:F0:8E:FC:D9"
+    ]
+  }
+}]
